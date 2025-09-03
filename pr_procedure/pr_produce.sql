@@ -1,3 +1,5 @@
+--Trabajo pr_procedure
+
 USE Evento;
 GO
 CREATE OR ALTER PROCEDURE CrearBaseDatos
